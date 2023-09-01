@@ -1,3 +1,3 @@
-const code = `console.log("hello")`
+const banana = 'b' + 'n' + 'a' + +'a'
 
-console.log(`Function('${code}')()`)
+debugger
